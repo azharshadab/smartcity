@@ -1,0 +1,20 @@
+/*TEAM*/
+Ishtiyaq Husain
+Site: ishtiyaq.com
+Twitter: ishtiyaqhu
+
+Shiv Kumar Singh
+Site: shivks.com
+
+
+/*THANKS*/
+Name: Ministry of Power & IIT Kanpur
+
+
+/*SITE*/
+Site name:  Smart City Pilot Project
+Site URL:   http://iitk.ac.in/smartcity/
+Contact:    http://iitk.ac.in/smartcity/contact.php
+Location:   Kanpur UP, India
+Built with: PHP, HTML5, CSS3, jQuery
+Online since: 2016
